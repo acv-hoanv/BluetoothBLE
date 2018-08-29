@@ -1,0 +1,1 @@
+https://altbeacon.github.io/android-beacon-library/samples.html
